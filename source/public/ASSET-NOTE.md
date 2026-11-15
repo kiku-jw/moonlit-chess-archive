@@ -1,0 +1,1 @@
+The original optional garden.png scenery is omitted because its provenance was not established in this archive pass. The CSS background colour remains available. Procedural chess geometry and SVG piece paths are retained unchanged. No external 3D mesh, Tripo output, account, room database or credential is included.
